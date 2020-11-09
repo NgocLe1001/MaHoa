@@ -1,0 +1,10 @@
+C:\Users\tung\Documents\Ngoc_le\cryptography\bin\Debug\cryptography.exe.config
+C:\Users\tung\Documents\Ngoc_le\cryptography\bin\Debug\cryptography.exe
+C:\Users\tung\Documents\Ngoc_le\cryptography\bin\Debug\cryptography.pdb
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.csprojAssemblyReference.cache
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.Form1.resources
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.Properties.Resources.resources
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.csproj.GenerateResource.cache
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.csproj.CoreCompileInputs.cache
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.exe
+C:\Users\tung\Documents\Ngoc_le\cryptography\obj\Debug\cryptography.pdb
